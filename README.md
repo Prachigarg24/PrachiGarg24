@@ -68,8 +68,9 @@ MERN stack is my playground — logic is my superpower 🧠⚙️
 ---
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrachiGarg24&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrachiGarg24&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages">
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=PrachiGarg24&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+   <img src="https://github-readme-stats.vercel.app/api?username=PrachiGarg24&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
 </p>
 <p align="center"> <a href="https://github.com/PrachiGarg24/github-readme-streak-stats"> <img title="🔥 Streak Stats" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=PrachiGarg24&hide_border=true&theme=react&bg_color=0D1117" /> </a> </p> <p align="center"> <a href="https://github.com/PrachiGarg24/github-readme-stats"> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PrachiGarg24&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" /> </a> </p> <p align="center"> <img src="https://img.shields.io/badge/Total%20Commits-1000%2B-success?style=for-the-badge&logo=github" alt="Total Commits Badge"> </p>
+  
