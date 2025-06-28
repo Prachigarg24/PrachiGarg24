@@ -77,9 +77,8 @@ MERN stack is my playground — logic is my superpower 🧠⚙️
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PrachiGarg24&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=PrachiGarg24&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
-
 <!-- Commits Badge -->
 <p align="center">
   <img src="https://img.shields.io/badge/Total%20Commits-1000%2B-success?style=for-the-badge&logo=github" alt="Total Commits Badge" />
