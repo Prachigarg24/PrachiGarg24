@@ -13,9 +13,9 @@
 
 ### ⚡ About Me
 
-Code. Coffee. Create.  
-Full Stack Developer building fast, clean, and real-world web apps using the MERN stack.  
-Obsessed with writing code that actually solves problems 💡
+Eat. Code. Fix Bugs. Repeat. 🔁  
+I break things just to build them better.  
+MERN stack is my playground — logic is my superpower 🧠⚙️
 
 ---
 
