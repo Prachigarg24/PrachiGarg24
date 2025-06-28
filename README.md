@@ -77,7 +77,7 @@ MERN stack is my playground — logic is my superpower 🧠⚙️
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PrachiGarg24&theme=radical&hide_border=true" alt="Streak Stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=PrachiGarg24&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
 </p>
 <!-- Commits Badge -->
 <p align="center">
