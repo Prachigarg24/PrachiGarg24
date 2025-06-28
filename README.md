@@ -11,11 +11,11 @@
 
 ---
 
-### 🔭 About Me
+### ⚡ About Me
 
-- I love solving problems with **JavaScript**, **React**, **Node**, and **MongoDB**
-- Passionate about building scalable apps and learning new technologies
-- Currently exploring **TypeScript** and **Next.js**
+Code. Coffee. Create.  
+Full Stack Developer building fast, clean, and real-world web apps using the MERN stack.  
+Obsessed with writing code that actually solves problems 💡
 
 ---
 
