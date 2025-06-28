@@ -75,6 +75,10 @@ MERN stack is my playground — logic is my superpower 🧠⚙️
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrachiGarg24&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
+<!-- longest streak -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/compact-stats/?username=PrachiGarg24&theme=radical&hide_border=true" alt="Compact GitHubStats" />
+</p>
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=PrachiGarg24&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
