@@ -66,10 +66,22 @@ MERN stack is my playground — logic is my superpower 🧠⚙️
 - 🔗 [**SocialSynced**](https://4436-euiu.vercel.app/index.html) – Full-stack social media platform with real-time updates, authentication, and Chakra UI, built using MERN stack. 
 - 🔗 [**StudyGenie – AI-Powered Study Companion**](https://smart-study-genie-app.vercel.app/) – Smart study planner with OpenAI-powered schedules, flashcards, and quizzes built using MERN stack and Cron jobs. 
 ---
-## 📊 GitHub Stats
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-FWDeveloper&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages">
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Swapnil-FWDeveloper&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrachiGarg24&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
-<p align="center"> <a href="https://github.com/Swapnil-FWDeveloper/github-readme-streak-stats"> <img title="🔥 Streak Stats" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Swapnil-FWDeveloper&hide_border=true&theme=react&bg_color=0D1117" /> </a> </p> <p align="center"> <a href="https://github.com/Swapnil-FWDeveloper/github-readme-stats"> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Swapnil-FWDeveloper&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" /> </a> </p> <p align="center"> <img src="https://img.shields.io/badge/Total%20Commits-1000%2B-success?style=for-the-badge&logo=github" alt="Total Commits Badge"> </p>
+
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrachiGarg24&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrachiGarg24&theme=radical&hide_border=true" alt="Streak Stats" />
+</p>
+
+<!-- Commits Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Commits-1000%2B-success?style=for-the-badge&logo=github" alt="Total Commits Badge" />
+</p>
