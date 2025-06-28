@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | MERN | Data Enthusiast</h3>
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhWdET5IkI1gHr9Hjjv__QHJBH4pjFDdUr4Q&s" alt="Developer illustration" width="200">
+  <img src="https://github.com/Prachigarg24/PrachiGarg24/blob/main/developer-girl.jpeg?raw=true" alt="Developer illustration" width="200">
 </p>
 
 <p align="center">
