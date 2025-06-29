@@ -75,15 +75,7 @@ MERN stack is my playground — logic is my superpower 🧠⚙️
 </p>
 
 <p align="center">
-  <a href="https://github.com/PrachiGarg24/github-readme-streak-stats">
-    <img title="🔥 Streak Stats" alt="Streak Stats" src="https://github-readme-streak-stats.vercel.app?user=PrachiGarg24&theme=radical&hide_border=true&background=0D1117" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/PrachiGarg24/github-readme-stats">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PrachiGarg24&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=PrachiGarg24&theme=radical&hide_border=true&background=0D1117" alt="Streak Stats" />
 </p>
 
 <p align="center">
