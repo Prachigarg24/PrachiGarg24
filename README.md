@@ -76,7 +76,7 @@ MERN stack is my playground — logic is my superpower 🧠⚙️
 
 <p align="center">
   <a href="https://github.com/PrachiGarg24/github-readme-streak-stats">
-    <img title="🔥 Streak Stats" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=PrachiGarg24&hide_border=true&theme=react&bg_color=0D1117" />
+    <img title="🔥 Streak Stats" alt="Streak Stats" src="https://github-readme-streak-stats.vercel.app?user=PrachiGarg24&theme=radical&hide_border=true&background=0D1117" />
   </a>
 </p>
 
