@@ -64,7 +64,8 @@ MERN stack is my playground — logic is my superpower 🧠⚙️
 
 - 🔗 [**BestBuy Clone**](https://best-buy-clone-two.vercel.app/) – Responsive e-commerce website clone of BestBuy built using HTML, CSS, and JavaScript with Firebase Auth and localStorage cart.  
 - 🔗 [**SocialSynced**](https://4436-euiu.vercel.app/index.html) – Full-stack social media platform with real-time updates, authentication, and Chakra UI, built using MERN stack. 
-- 🔗 [**StudyGenie – AI-Powered Study Companion**](https://smart-study-genie-app.vercel.app/) – Smart study planner with OpenAI-powered schedules, flashcards, and quizzes built using MERN stack and Cron jobs. 
+- 🔗 [**StudyGenie – AI-Powered Study Companion**](https://smart-study-genie-app.vercel.app/) – Smart study planner with OpenAI-powered schedules, flashcards, and quizzes built using MERN stack and Cron jobs.
+- - 🔗 [**Voting App - Vote Now **](https://voting-app-vote-now.vercel.app/) – 📊 Cast your vote and see results instantly — a secure and interactive voting platform.
 ---
 ## 📊 GitHub Stats
 <p align="center">
