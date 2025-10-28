@@ -30,7 +30,7 @@ MERN stack is my playground — logic is my superpower 🧠⚙️
   <a href="https://github.com/Prachigarg24" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://drive.google.com/file/d/1dLGww0H3D6enWJfDYgU-EeSm-t2Hz0XH/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1m-9GlErpp1k9RsXQx1by6BoCkF3ZofEe/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
   </a>
   <a href="https://prachi-garg-portfolio-pulse.vercel.app/" target="_blank">
